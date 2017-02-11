@@ -13,6 +13,4 @@ In this project I used WCF service library to host required services,
 ADO.NET Entity Framework (code first from database) to work with MSSQL Server
 and WPF application as a client
 
-To run it you'll need MSSQL Server running. You should use ShopWCF.sql script to create DB to work with
-And maybe you'll need to change connection string in ServiceLibrary App.config file (don't forget to
-change it's name in ShopContext.cs file if needed)
+To run it you'll need MSSQL Server running. You should use ShopWCF.sql script to create DB to work with. And maybe you'll need to change connection string in ServiceLibrary App.config file (don't forget to change it's name in ShopContext.cs file if needed)
