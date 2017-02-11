@@ -1,0 +1,10 @@
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\DataLayer.dll
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\DataLayer.pdb
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\EntityFramework.dll
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\EntityFramework.xml
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\obj\Debug\DataLayer.dll
+D:\Учеба\WCF\Exam\ShopWCF\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,12 @@
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\DataLayer.dll
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\EntityFramework.dll
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\DataLayer.pdb
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\EntityFramework.xml
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\obj\Debug\ServiceLibrary.csprojResolveAssemblyReference.cache
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\Учеба\WCF\Exam\ShopWCF\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

@@ -1,0 +1,14 @@
+D:\Учеба\WCF\Exam\ShopWCF\Client\bin\Debug\Client.exe.config
+D:\Учеба\WCF\Exam\ShopWCF\Client\bin\Debug\Client.exe
+D:\Учеба\WCF\Exam\ShopWCF\Client\bin\Debug\Client.pdb
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\MainWindow.g.cs
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\App.g.cs
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\MainWindow.baml
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client.g.resources
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client.exe
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client.pdb
+D:\Учеба\WCF\Exam\ShopWCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

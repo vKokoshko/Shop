@@ -1,0 +1,6 @@
+D:\Учеба\WCF\Exam\ShopWCF\ShopClient\bin\Debug\ShopClient.exe.config
+D:\Учеба\WCF\Exam\ShopWCF\ShopClient\obj\Debug\ShopClient.csprojResolveAssemblyReference.cache
+D:\Учеба\WCF\Exam\ShopWCF\ShopClient\obj\Debug\MainWindow.g.cs
+D:\Учеба\WCF\Exam\ShopWCF\ShopClient\obj\Debug\App.g.cs
+D:\Учеба\WCF\Exam\ShopWCF\ShopClient\obj\Debug\ShopClient_MarkupCompile.cache
+D:\Учеба\WCF\Exam\ShopWCF\ShopClient\obj\Debug\ShopClient_MarkupCompile.lref
